@@ -10,7 +10,7 @@ public class Fabrica {
         car1.setKm(200);
         car1.setN_puertas(3);
         car1.setN_plazas(5);
-
+//
         Coche car2 = new Coche("5678-AG","Fiat","Uno","Rojo",true,300,3,2);
 
         Coche car3 = new Coche("9012-HH","BMW","850");
